@@ -1,0 +1,144 @@
+body {
+	padding:0;
+	margin:0;
+	background-color: black;
+}
+
+.star {
+	position: absolute;
+	width: 10px;
+	height: 10px;
+	background-color: white;
+	border-radius: 100px;
+	box-shadow: 1px 1px 20px white;
+}
+
+.alpha-2 {
+	position: absolute;
+	margin-left: 100px;
+	margin-top: 50px;
+}
+
+.alpha-3 {
+	position: absolute;
+	margin-left: 350px;
+	margin-top: 10px;
+}
+.alpha-4 {
+	position: absolute;
+	margin-left: 570px;
+	margin-top: 75px;
+}
+.alpha-5 {
+	position: absolute;
+	margin-left: 800px;
+	margin-top: 500px
+}
+.alpha-6 {
+	position: absolute;
+	margin-left: 1200px;
+	margin-top: 350px;
+}
+.alpha-7 {
+	position: absolute;
+	margin-left: 1500px;
+	margin-top: 150px;
+}
+
+.alpha-8 {
+	position: absolute;
+	margin-left: 50px;
+	margin-top: 750px;
+}
+
+.star-2 {
+	position: absolute;
+	width: 5px;
+	height: 5px;
+	background-color: white;
+	border-radius: 10px;
+	box-shadow: 1px 1px 15px white;
+}
+
+.beta-1 {
+	position: absolute;
+	margin-left: 150px;
+	margin-top: 550px;
+}
+.beta-2 {
+	position: absolute;
+	margin-left: 250px;
+	margin-top: 350px;
+}
+
+.beta-3 {
+	position: absolute;
+	margin-left: 500px;
+	margin-top: 50px;
+}
+.beta-4 {
+	position: absolute;
+	margin-left: 900px;
+	margin-top: 550px;
+}
+.beta-5 {
+	position: absolute;
+	margin-left: 1500px;
+	margin-top: 100px;
+}
+.beta-6 {
+	position: absolute;
+	margin-left: 1900px;
+	margin-top: 500px;
+}
+
+/*normal*/
+.star-3 {
+	position: absolute;
+	width: 3px;
+	height: 3px;
+	background-color: white;
+	border-radius: 10px;
+	box-shadow: 1px 1px 10px white;
+}
+
+.normal-1 {
+	position: absolute;
+	margin-left: 1750px;
+	margin-top: 682px;
+}
+.normal-2 {
+	position: absolute;
+	margin-left: 1500px;
+	margin-top: 550px;
+}
+.normal-3 {
+	position: absolute;
+	margin-left: 1000px;
+	margin-top: 50px;
+}
+.normal-4 {
+	position: absolute;
+	margin-left: 830px;
+	margin-top: 190px;
+}
+.normal-5 {
+	position: absolute;
+	margin-left: 460px;
+	margin-top: 430px;
+}
+.normal-6 {
+	position: absolute;
+	margin-left: 120px;
+	margin-top: 230px;
+}
+.normal-7 {
+	position: absolute;
+	margin-left: 1600px;
+	margin-top: 620px;
+}
+.normal-8 {
+	position: absolute;
+	margin-left: 1800px;
+	margin-top: 600px;
+}
